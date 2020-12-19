@@ -1,3 +1,10 @@
+/*
+ * @Author: canpinaremre
+ * Purpose: To read and write 8bits on I2C by using HAL Library
+ * Language:  C
+ */
+
+
 #include "stm32f4xx_hal.h"
 #include "main.h"
 
